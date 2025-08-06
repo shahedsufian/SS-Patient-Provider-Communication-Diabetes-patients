@@ -1,2 +1,10 @@
-# SS-Patient-Provider-Communication-Diabetes-patients
-Influence of Patient-Provider Communication on Self-Management Confidence and Health Outcomes Among Adult Diabetes Patients in the US: Evidence From MEPS 2015-19
+# Influence of Patient-Provider Communication on Self-Management Confidence and Health Outcomes Among Adult Diabetes Patients in the US: Evidence From MEPS 2015-19
+
+## Project Summary
+Diabetes Mellitus is a broad category of metabolic illnesses characterized by chronic hyperglycemia. Diabetes can result in cardiovascular disease, stroke, renal failure, amputation of a toe, foot, or limb, as well as increased medical expenditures. This study evaluates the influence of patient-provider communication (PPC) on patients' confidence in self-management, service utilization, and medical expenses among the adult population in the United States (U.S.) having diabetes.
+
+The Medical Expenditure Panel Survey (MEPS) was used to investigate the association between PPC healthcare consumption, costs, and self-management confidence. The dependent variables include costs, utilization, and diabetes management confidence. We chose ER visits, office visits, and prescription medicine fills as measures of healthcare usage. The result of the question "How confident are you in managing your diabetes?" was generated from the MEPS diabetes care survey. Data were preprocessed in R and analyzed in STATA. Using person weights and variance estimations, a nationally representative sample was created. Gender, race, marital status, education, poverty level, and dummy insurance coverage were utilized to adjust for demographics. We also account for self-reported mental and physical well-being. Poor PPC replies were classified as such, whereas typical PPC responses were categorized as such.
+
+The sample included 2,608 people, which translates to about 52 million diabetics. Poor PPC group had more females than the other two (59.5 percent vs. 48.4% and 52.7 percent). Except for ER visits, there are no significant differences in any of the healthcare usage characteristics. Prescription costs revealed no noteworthy findings. Diabetes management confidence differed the most. Those with poor PPC are over 60% less likely than those with perfect PPC to be confident in their diabetes treatment, and those with average PPC are 30% less likely. 
+
+The health system and healthcare providers’ further attention and efforts to improve PPC can elevate diabetes patients’ confidence in self-management and reduce overall medical expenditure.
